@@ -124,5 +124,5 @@ Identifies highly traded instruments using time-window queries on indexed dates.
 1. Install dependencies:
    ```bash
    pip install pandas
-
-## 8. Project Structure
+   
+---
